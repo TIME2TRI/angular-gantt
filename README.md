@@ -43,13 +43,11 @@ Docs are built using [MkDocs](http://www.mkdocs.org/) and available at
 
 angular-gantt is available through [bower](http://bower.io/) and [npm](https://www.npmjs.org/package/angular-gantt).
 
-    npm install angular-gantt
-    bower install angular-gantt
+    npm install @time2tri/angular-gantt
     
 or
 
-    npm install https://github.com/angular-gantt/angular-gantt/tarball/develop
-    bower install angular-gantt#develop
+    npm install https://github.com/time2tri/angular-gantt/tarball/develop
 
 ## CDNs
 
