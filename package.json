@@ -1,5 +1,5 @@
 {
-  "name": "angular-gantt",
+  "name": "@time2tri/angular-gantt",
   "version": "2.0.0-rc.1",
   "description": "Gantt chart component for AngularJS",
   "author": "Rémi Alvergnat <toilal.dev@gmail.com> (https://www.pragmasphere.com)",
