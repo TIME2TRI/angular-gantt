@@ -67,10 +67,10 @@ You can find released version on CDNs.
 
 ## Download
 
-[Latest released version](https://github.com/angular-gantt/angular-gantt/releases/latest) is available to 
-[download](https://github.com/angular-gantt/angular-gantt/releases/latest) on Github and is the recommended and stable version.
+[Latest released version](https://github.com/time2tri/angular-gantt/releases/latest) is available to 
+[download](https://github.com/time2tri/angular-gantt/releases/latest) on Github and is the recommended and stable version.
 
-[Develop branch version](https://github.com/angular-gantt/angular-gantt/tree/develop) contains bleeding edge features, but may be very unstable.
+[Develop branch version](https://github.com/time2tri/angular-gantt/tree/develop) contains bleeding edge features, but may be very unstable.
 
 ## Dependencies
 - [AngularJS](https://angularjs.org) >= 1.3
