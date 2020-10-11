@@ -18,7 +18,11 @@ webpackConfig = merge(baseWebpackConfig, {
   entry: {
     'angular-gantt': ['./src/index.ts', './src/plugins/index.ts'],
     'angular-gantt-core': './src/index.ts',
-    'angular-gantt-plugins': './src/plugins/index.ts'
+    'angular-gantt-plugins': './src/plugins/index.ts',
+    'angular-gantt-plugin-movable': './src/plugins/movable/index.ts',
+    'angular-gantt-plugin-table': './src/plugins/table/index.ts',
+    'angular-gantt-plugin-tooltips': './src/plugins/tooltips/index.ts',
+    'angular-gantt-plugin-drawtask': './src/plugins/drawtask/index.ts',
   },
   output: {
     path: config.build.assetsRoot,
